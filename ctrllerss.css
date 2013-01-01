@@ -78,3 +78,19 @@ nav {
     right:0;
     background-color: #000; 
 }
+
+.unit {
+  float: left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  width: 31%;
+
+}
+
+.content {
+      margin-right: 13px;
+  padding: 0 0 10px;
+  padding-top: 5px;
+  
+}

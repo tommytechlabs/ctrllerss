@@ -1,6 +1,6 @@
 <h1>CtrllerSS</h1>
 
-<h4><img src="https://github.com/tommytechlabs/ctrllerss/blob/master/status.png?raw=true" height="15px" width="15px">Status:  Semi-Stable</h4>
+<h4>Status:  Semi-Stable &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/tommytechlabs/ctrllerss/blob/master/status.png?raw=true" height="15px" width="15px"></h4>
 
 <p>A powerful CSS library to take advantage of CSS3 and make your websites look stunning.</p>
 <br>

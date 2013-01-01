@@ -1,0 +1,72 @@
+/*
+ * CtrllerSS v0.3
+ *
+ * Copyright 2012 Tommy Tech
+ * Built by the Project [T] team
+ * Licensed under the Apache License v2.0
+ * http://www.apache.org/licenses/LICENSE-2.0
+ */
+
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.3em;
+  color: #404040;
+  background-color: #ffffff;
+}
+
+a {
+	text-decoration: none;
+	color: #4d8ec0;
+}
+
+p {
+	font-size: 14px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+h2 {
+	font-size: 33px;
+}
+
+h3 {
+	font-size: 26px;
+}
+
+h4 {
+	font-size: 19px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.bolder {
+	font-weight: bolder;
+}
+
+.lighter {
+	font-weight: lighter;
+}
+
+.light {
+	font-weight: 100;
+}
+
+nav {
+	color: #fff;
+	background-color: #2f2f2f;
+	width: 100%;
+	position: fixed;
+	left:0; 
+    right:0; 
+    top:0;
+    border-bottom: 1px solid #acacac;
+}
+
+#navcontainer {
+	width: 80%;
+}

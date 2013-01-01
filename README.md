@@ -1,5 +1,5 @@
 <h1>CtrllerSS</h1>
-<img src="https://secure.travis-ci.org/twitter/bootstrap.png" style="max-width:100%;">
+<img src="" style="max-width:100%;">
 <p>A powerful CSS library to take advantage of CSS3 and make your websites look stunning.</p>
 <br>
 <br>
